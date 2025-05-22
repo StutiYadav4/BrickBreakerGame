@@ -3,6 +3,7 @@ This repository has a code representation of my Brick Breaker Game Project. Bric
 
 
 Execution Instructions 
+
 Here are the steps to play the Brick Breaker game along with execution 
 instructions: 
 1. Launch the Game: Run the executable file or compile and run the source 
